@@ -4,7 +4,9 @@
 - 🌱 Estudando Ciência da Computação na UFS
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slotov-7&show_icons=true&theme=radical)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slotov-7&rank_icon=github&theme=dark)
 
 </picture>
 <div style="display: inline_block"><br>
