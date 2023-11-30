@@ -4,9 +4,8 @@
 - 🌱 Estudando Ciência da Computação na UFS
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slotov-7&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slotov-7&layout=compact)
 </picture>
 <div style="display: inline_block"><br>
   <img align="center" alt="Slotov-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,3 +23,5 @@
   <a href="https://www.linkedin.com/in/guiherme-ara%C3%BAjo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
+
+![Snake animation](
