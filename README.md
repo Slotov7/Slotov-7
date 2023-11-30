@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Guilherme 
 
-- 🔭 Em busca de mais experiência
-- 🌱 Estudando Ciência da Computação na UFS
+- 🔭 Sempre em busca de mais experiência
+- 💻 Estudando Ciência da Computação na UFS
 
 
 
