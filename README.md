@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme 
 
-- 🔭 Estou buscando mais experiência
+- 🔭 Em busca de mais experiência
 - 🌱 Estudando Ciência da Computação na UFS
 
 
