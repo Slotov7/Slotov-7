@@ -23,7 +23,7 @@ Se você compartilha interesses em tecnologia, ou se simplesmente quiser trocar 
 </p>
 
 <h2>
-  Tecnologias que Já Explorei
+  📟 Tecnologias que Já Explorei
   </h2>
 </picture>
 <div style="display: inline_block" align= "center" valagn= "top"><br>
@@ -32,6 +32,9 @@ Se você compartilha interesses em tecnologia, ou se simplesmente quiser trocar 
   <img align="center" alt="Slotov-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Slotov-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Slotov-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Slotov-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Slotov-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Slotov-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
 ## 📫 Entre em Contato 
