@@ -19,7 +19,7 @@ Se você compartilha interesses em tecnologia, ou se simplesmente quiser trocar 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slotov-7&layout=compact&theme=dark" alt="Top Language">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slotov-7&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
 <h2>
