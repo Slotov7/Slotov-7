@@ -13,14 +13,18 @@ Se você compartilha interesses em tecnologia, ou se simplesmente quiser trocar 
 
 
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slotov-7&rank_icon=github&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Slotov-7&count_private=true&include_all_commits=true&rank_icon=github&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slotov-7&layout=compact&theme=dark" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slotov-7&include_all_commits=true&layout=compact&theme=dark" alt="Top Languages">
 </p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slotov-7&theme=dark" alt="GitHub Streak">
+</p>
+
+
 
 <h2>
   📟 Tecnologias que Já Explorei
