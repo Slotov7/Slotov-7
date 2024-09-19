@@ -14,7 +14,7 @@ Se você compartilha interesses em tecnologia, ou se simplesmente quiser trocar 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slotov-7&count_private=true&include_all_commits=true&rank_icon=github&show_icons=true&theme=dark" alt="GitHub Stats">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Slotov-7&count_private=true&include_all_commits=true&show_icons=github&show_icons&theme=dark&hide_border=false&show_owner=true"/>
 </p>
 
 <p align="center">
