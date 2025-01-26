@@ -20,8 +20,7 @@ Se você compartilha interesses em tecnologia, ou se simplesmente quiser trocar 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slotov-7&include_all_commits=true&layout=compact&theme=dark" alt="Top Languages">
 </p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slotov-7&theme=dark" alt="GitHub Streak">
+   
 </p>
 
 
@@ -38,6 +37,11 @@ Se você compartilha interesses em tecnologia, ou se simplesmente quiser trocar 
   <img align="center" alt="Slotov-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Slotov-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Slotov-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Slotov-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="Slotov-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img align="center" alt="Slotov-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+  <img align="center" alt="Slotov-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+
  
 </div>
 
